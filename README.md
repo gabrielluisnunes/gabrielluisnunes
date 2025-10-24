@@ -2,9 +2,9 @@
 
 
 ## 📖 About me
-- 🎓 Student of Systems Analysis and Development  
-- 📍 From Foz do Iguaçu, Paraná, Brazil  
-- 🌱 C, HTML5, CSS3, JavaScript, Java, PowerBI, MySQL, Angular
+- Student of Systems Analysis and Development  
+- From Foz do Iguaçu, Paraná, Brazil  
+- REST API, JavaScript, Python, Spring Boot, HTML5, CSS3.
 
 ## 🛠️ Tech Stack
 <p align="center">
