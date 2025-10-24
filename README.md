@@ -2,9 +2,8 @@
 
 
 ## 📖 About me
-- Student of Systems Analysis and Development  
-- From Foz do Iguaçu, Paraná, Brazil  
-- REST API, JavaScript, Python, Spring Boot, HTML5, CSS3.
+Hello! My name is Gabriel Luis Parede Nunes. I'm currently studying Systems Analysis and Development, expected to graduate in December 2025, and I plan to pursue a degree in Software Engineering, always striving to improve my knowledge and grow as a technology professional. 
+I'm driven by challenges, continuous learning, and the desire to transform ideas into real results through technology. I'm open to connections, knowledge exchange, and new opportunities in development and technology!
 
 ## 🛠️ Tech Stack
 <p align="center">
