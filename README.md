@@ -1,35 +1,30 @@
-# </Hello, my name is Gabriel Nunes!/>
+👨🏻‍💻 Gabriel Nunes
 
+Desenvolvedor FullStack
 
-## 📖 About me
-Hello! My name is Gabriel Luis Parede Nunes. I'm currently studying Systems Analysis and Development, expected to graduate in December 2025, and I plan to pursue a degree in Software Engineering, always striving to improve my knowledge and grow as a technology professional. 
-I'm driven by challenges, continuous learning, and the desire to transform ideas into real results through technology. I'm open to connections, knowledge exchange, and new opportunities in development and technology!
+Olá! Meu nome é Gabriel Luis Parede Nunes, sou estudante de Análise e Desenvolvimento de Sistemas, com previsão de formatura em dezembro de 2025.
+Tenho como meta seguir na área de Engenharia de Software, buscando constantemente aprimorar meus conhecimentos e crescer como profissional de tecnologia.
+Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em resultados reais através da tecnologia.
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"          width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"     width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"    width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"   width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"   width="40" alt="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="REST API"/>
+🤖 Linguagens e Tecnologias
+
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="HTML" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<br/> <br/>
+📊 Estatísticas
+<p> <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+<img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+
 </p>
-
-
-## 📊 Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes-b62724235">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/gabrielluisnunes">
-    <img src="https://img.shields.io/github/followers/gabrielluisnunes?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
+🔗 Conecte-se comigo
+<p align="left"> <a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes-b62724235"> <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/gabrielluisnunes"> <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/github/followers/gabrielluisnunes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> </a> </p>
