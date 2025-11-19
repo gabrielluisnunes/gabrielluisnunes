@@ -1,10 +1,12 @@
 👨🏻‍💻 Gabriel Nunes
 
-Desenvolvedor FullStack
+Sou especialista na criação de sites profissionais focados em desempenho, design e conversão. Desenvolvo projetos que unem Web Design, WordPress, Elementor e Figma para empresas que buscam presença online sólida e resultados reais.
 
-Olá! Meu nome é Gabriel Luis Parede Nunes, sou estudante de Análise e Desenvolvimento de Sistemas, com previsão de formatura em dezembro de 2025.
-Tenho como meta seguir na área de Engenharia de Software, buscando constantemente aprimorar meus conhecimentos e crescer como profissional de tecnologia.
-Sou movido por desafios, aprendizado contínuo e pela vontade de transformar ideias em resultados reais através da tecnologia.
+Atuo construindo sites modernos, rápidos e estratégicos, entregando a combinação ideal entre estética, experiência do usuário e performance técnica.
+
+🌐 Portfólio: https://vercel.com/gabriel-nunes-projects-fb8dc394
+📩 E-mail: gabrielluisnunes@gmail.com
+📱WhatsApp: +55 (45) 99133-9633
 
 ---
 
