@@ -1,12 +1,11 @@
 👨🏻‍💻 Gabriel Nunes
+Sou um profissional movido por resiliência, inovação, soluções práticas com experiência em, Desenvolvimento Full Stack, Análise de Dados e Marketing Digital. Gosto de transformar desafios complexos em resultados concretos e ajudar equipes e empresas a alcançarem seus objetivos com eficiência e clareza.
 
-Sou especialista na criação de sites profissionais focados em desempenho, design e conversão. Desenvolvo projetos que unem Web Design, WordPress, Elementor e Figma para empresas que buscam presença online sólida e resultados reais.
+Tenho atuado em diferentes funções ao longo da minha trajetória, acumulando experiência ótimas. Em cada oportunidade, procurei desenvolver competências como proativdade, comprometimento, foco, entregas e aprendizados contínuos. Também participei de projetos próprios e pessoais que me permitiram exercitar habilidades complementares e fortalecer meu perfil profissional, demonstrando proatividade, autonomia e capacidade de lidar com demandas fora do escopo tradicional.
 
-Atuo construindo sites modernos, rápidos e estratégicos, entregando a combinação ideal entre estética, experiência do usuário e performance técnica.
+Ofereço como valor principal a capacidade de entregar resultados concretos com foco em eficiência, qualidade e colaboração. Se você busca alguém comprometido, com visão prática e habilidade em transformar ideias em ações. Minha combinação de competências técnicas e interpessoais permite atuar de forma versátil e adaptável, sempre com foco em entregar valor para o time ou empresa.
 
-🌐 Portfólio: https://vercel.com/gabriel-nunes-projects-fb8dc394
-📩 E-mail: gabrielluisnunes@gmail.com
-📱WhatsApp: +55 (45) 99133-9633
+Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se conectar para networking profissional, será um prazer. Vamos conversar!
 
 ---
 
