@@ -1,4 +1,3 @@
-👨🏻‍💻 Gabriel Nunes
 Sou um profissional movido por resiliência, inovação, soluções práticas com experiência em, Desenvolvimento Full Stack, Análise de Dados e Marketing Digital. Gosto de transformar desafios complexos em resultados concretos e ajudar equipes e empresas a alcançarem seus objetivos com eficiência e clareza.
 
 Tenho atuado em diferentes funções ao longo da minha trajetória, acumulando experiência ótimas. Em cada oportunidade, procurei desenvolver competências como proativdade, comprometimento, foco, entregas e aprendizados contínuos. Também participei de projetos próprios e pessoais que me permitiram exercitar habilidades complementares e fortalecer meu perfil profissional, demonstrando proatividade, autonomia e capacidade de lidar com demandas fora do escopo tradicional.
