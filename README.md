@@ -27,25 +27,48 @@ Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se c
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas 
 
 <div align="center">
 
-  <a href="https://github.com/gabrielluisnunes">
-    <img 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  <!-- GitHub Readme Stats -->
+  <a href="https://github.com/gabrielluisnunes" target="_blank">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
+      alt="Gabriel's GitHub stats"
     />
   </a>
 
-  <a href="https://github.com/gabrielluisnunes">
-    <img 
-      height="180em" 
+  <!-- Top Languages -->
+  <a href="https://github.com/gabrielluisnunes" target="_blank">
+    <img
+      height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&langs_count=8&theme=tokyonight"
+      alt="Top Languages"
+    />
+  </a>
+
+  <br/>
+
+  <!-- Trophies -->
+  <a href="https://github.com/gabrielluisnunes" target="_blank">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=gabrielluisnunes&theme=tokyonight"
+      alt="Trophies"
+    />
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://github.com/gabrielluisnunes" target="_blank">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight"
+      alt="GitHub Streak"
     />
   </a>
 
 </div>
+
 
 ---
 
