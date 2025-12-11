@@ -27,11 +27,25 @@ Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se c
 
 ---
 
-📊 Estatísticas
-<p align="center"> 
-  <img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" /> 
-  <img alt="Top Langs" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&langs_count=8&theme=tokyonight" /> 
-</p>
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <a href="https://github.com/gabrielluisnunes">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    />
+  </a>
+
+  <a href="https://github.com/gabrielluisnunes">
+    <img 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&langs_count=8&theme=tokyonight"
+    />
+  </a>
+
+</div>
 
 ---
 
