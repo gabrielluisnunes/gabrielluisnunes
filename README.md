@@ -34,7 +34,7 @@ Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se c
   <!-- GitHub Readme Stats -->
   <a href="https://github.com/gabrielluisnunes" target="_blank">
     <img
-      height="180em"
+      height="120em"
       src="https://readmestatus-nine.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
       alt="Gabriel's GitHub stats"
     />
@@ -43,21 +43,13 @@ Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se c
   <!-- Top Languages -->
   <a href="https://github.com/gabrielluisnunes" target="_blank">
     <img
-      height="180em"
+      height="120em"
       src="https://readmestatus-nine.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&langs_count=8&theme=tokyonight"
       alt="Top Languages"
     />
   </a>
 
   <br/>
-
-  <!-- Trophies -->
-  <a href="https://github.com/gabrielluisnunes" target="_blank">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=gabrielluisnunes&theme=tokyonight"
-      alt="Trophies"
-    />
-  </a>
 
   <!-- GitHub Streak -->
   <a href="https://github.com/gabrielluisnunes" target="_blank">
