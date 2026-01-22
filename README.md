@@ -1,10 +1,16 @@
-Sou um profissional movido por resiliência, inovação, soluções práticas com experiência em, Desenvolvimento Full Stack, Análise de Dados e Marketing Digital. Gosto de transformar desafios complexos em resultados concretos e ajudar equipes e empresas a alcançarem seus objetivos com eficiência e clareza.
+Sou Gabriel e trabalho para ajudar empresas a saírem do planejamento e irem para a execução, transformando ideias e dados em soluções que realmente geram resultado.
 
-Tenho atuado em diferentes funções ao longo da minha trajetória, acumulando experiência ótimas. Em cada oportunidade, procurei desenvolver competências como proativdade, comprometimento, foco, entregas e aprendizados contínuos. Também participei de projetos próprios e pessoais que me permitiram exercitar habilidades complementares e fortalecer meu perfil profissional, demonstrando proatividade, autonomia e capacidade de lidar com demandas fora do escopo tradicional.
+Meu foco é reduzir a complexidade e entregar soluções práticas, aplicáveis no dia a dia e com impacto real no negócio. Atuo com Desenvolvimento Full Stack, Análise de Dados e Marketing Digital, utilizando tecnologia e dados para tirar projetos do papel, otimizar processos e melhorar a performance.
 
-Ofereço como valor principal a capacidade de entregar resultados concretos com foco em eficiência, qualidade e colaboração. Se você busca alguém comprometido, com visão prática e habilidade em transformar ideias em ações. Minha combinação de competências técnicas e interpessoais permite atuar de forma versátil e adaptável, sempre com foco em entregar valor para o time ou empresa.
+Na prática, desenvolvo sistemas, analiso dados e crio estratégias digitais orientadas a resultados, apoiando a tomada de decisão e a eficiência operacional.
 
-Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se conectar para networking profissional, será um prazer. Vamos conversar!
+Estou em início de carreira, mas já atuei em diferentes funções, o que me permitiu desenvolver aplicações e soluções digitais do zero, transformar dados em insights estratégicos e estruturar ações de marketing focadas em performance e crescimento.
+
+Também conduzi projetos próprios de ponta a ponta — do diagnóstico ao planejamento, execução e entrega. Isso fortaleceu meu perfil em autonomia, priorização, resolução de problemas e foco em resultado, não apenas em tarefas.
+
+Meu diferencial é traduzir problemas complexos em soluções simples, funcionais e aplicáveis, sempre com foco em eficiência, qualidade e colaboração.
+
+Se você busca alguém que executa, aprende rápido e entrega resultados conectando tecnologia, dados e negócio, estou aberto a trocas, projetos e oportunidades.
 
 ---
 
@@ -26,28 +32,6 @@ Se quiser trocar ideias, explorar possíveis colaborações ou simplesmente se c
 <br/>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <!-- GitHub Readme Stats -->
-  <a href="https://github.com/gabrielluisnunes" target="_blank">
-    <img
-      height="120em"
-      src="https://readmestatus-nine.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"
-      alt="Gabriel's GitHub stats"
-    />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/gabrielluisnunes" target="_blank">
-    <img
-      height="120em"
-      src="https://readmestatus-nine.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&langs_count=8&theme=tokyonight"
-      alt="Top Languages"
-    />
-  </a>
 
   <br/>
 
