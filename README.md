@@ -1,18 +1,4 @@
-Sou Gabriel e trabalho para ajudar empresas a saírem do planejamento e irem para a execução, transformando ideias e dados em soluções que realmente geram resultado.
-
-Meu foco é reduzir a complexidade e entregar soluções práticas, aplicáveis no dia a dia e com impacto real no negócio. Atuo com Desenvolvimento Full Stack, Análise de Dados e Marketing Digital, utilizando tecnologia e dados para tirar projetos do papel, otimizar processos e melhorar a performance.
-
-Na prática, desenvolvo sistemas, analiso dados e crio estratégias digitais orientadas a resultados, apoiando a tomada de decisão e a eficiência operacional.
-
-Estou em início de carreira, mas já atuei em diferentes funções, o que me permitiu desenvolver aplicações e soluções digitais do zero, transformar dados em insights estratégicos e estruturar ações de marketing focadas em performance e crescimento.
-
-Também conduzi projetos próprios de ponta a ponta — do diagnóstico ao planejamento, execução e entrega. Isso fortaleceu meu perfil em autonomia, priorização, resolução de problemas e foco em resultado, não apenas em tarefas.
-
-Meu diferencial é traduzir problemas complexos em soluções simples, funcionais e aplicáveis, sempre com foco em eficiência, qualidade e colaboração.
-
-Se você busca alguém que executa, aprende rápido e entrega resultados conectando tecnologia, dados e negócio, estou aberto a trocas, projetos e oportunidades.
-
----
+Sou Gabriel Nunes, desenvolvedor full stack de 23 anos, com experiência em Angular, C#, Node.js e React. Atuo no desenvolvimento de aplicações escaláveis e bem estruturadas, com foco em performance, organização de código e boas práticas. Estou sempre buscando evoluir tecnicamente e contribuir com soluções eficientes para problemas reais.
 
 ⚙️ Linguagens e Tecnologias
 
