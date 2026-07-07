@@ -1,55 +1,89 @@
-Sou Gabriel Nunes, desenvolvedor full stack de 23 anos, com experiência em Angular, C#, Node.js e React. Atuo no desenvolvimento de aplicações escaláveis e bem estruturadas, com foco em performance, organização de código e boas práticas. Estou sempre buscando evoluir tecnicamente e contribuir com soluções eficientes para problemas reais.
-
-⚙️ Linguagens e Tecnologias
-
-<div style="display: inline_block">
-  <img align="left" alt="C" title="C" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="left" alt="Java" title="Java" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="HTML" title="HTML5" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS" title="CSS3" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="left" alt="Tailwind" title="Tailwind CSS" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img align="left" alt="React" title="React" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="left" alt="Next.js" title="Next.js" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="left" alt="Spring Boot" title="Spring Boot" width="35px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-</div>
-<br clear="left"/> <br/>
-<br/>
-
----
-
-  <br/>
-
-  <!-- GitHub Streak -->
-  <a href="https://github.com/gabrielluisnunes" target="_blank">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight"
-      alt="GitHub Streak"
-    />
-  </a>
-
-</div>
-
-
-
----
-
-🌐 Conecte-se comigo
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes-b62724235" target="_blank"> 
-    <img alt="LinkedIn" title="Meu LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a> 
-  &nbsp;&nbsp; 
-  <a href="https://github.com/gabrielluisnunes" target="_blank"> 
-    <img alt="GitHub" title="Meu GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-  </a> 
-  &nbsp;&nbsp; 
-  <a href="mailto:gabrielluisnunes@gmail.com"> 
-    <img alt="Email" title="Envie-me um e-mail" src="https://img.shields.io/badge/-gabrielluisnunes@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-  </a> 
+<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack | Engenheiro de Software</h3>
+<p align="center">
+  Construindo SaaS, apps mobile e produtos digitais escaláveis — do zero ao deploy.
 </p>
+<br/>
+🚀 Sobre mim
 
----
+Tenho 23 anos e sou desenvolvedor full stack. Gosto de entender um problema de verdade antes de sair escrevendo código e de aprender fazendo, no braço, testando ideia atrás de ideia até funcionar.
 
-💡 “Transformando desafios em código e ideias em realidade.”
+Trabalho profissionalmente com React, Next.js, Node.js, TypeScript, C# (.NET) e Angular, atuando em sistemas B2B/B2C para o setor turístico. Mas o que mais me ensinou até hoje foi construir meus próprios projetos do zero: pensar no banco de dados, na autenticação, na cobrança, no que pode quebrar em produção e resolver cada parte sozinho.
+
+Hoje mantenho dois produtos próprios em produção, que fui construindo e aprendendo no processo:
+
+
+🥋 Tatami — comecei esse projeto pra resolver a dor real de uma academia de artes marciais: controlar mensalidade, treino e graduação de forma manual é uma bagunça. Hoje o sistema faz check-in por reconhecimento facial, cobrança automática recorrente, contratos digitais com assinatura e histórico completo de graduação por faixa.
+📄 Propify — nasceu da vontade de simplificar como freelancers e agências criam e acompanham propostas comerciais. Tem Kanban de negociação, analytics de conversão e integração com Google Calendar.
+
+
+Curto entender o "porquê" por trás de cada decisão técnica, não só o "como". E ainda tem muita coisa que eu quero aprender — essa é a parte que mais me motiva.
+
+💼 O que eu construí
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🥋 Tatami</h3>
+      <p>Sistema de gestão para academias de artes marciais, do zero até produção. Check-in por reconhecimento facial, cobrança recorrente automatizada, sistema de graus por faixa, contratos digitais com assinatura e coleta de dados (CPF, responsáveis).</p>
+      <b>Stack:</b> Next.js 14 · Supabase · Stripe · Tailwind CSS · face-api.js
+    </td>
+    <td width="50%">
+      <h3>📄 Propify</h3>
+      <p>Plataforma para freelancers e agências criarem e acompanharem propostas comerciais. Kanban de negociação, analytics de conversão, forecasting, integração com Google Calendar e pagamentos via Kiwify.</p>
+      <b>Stack:</b> Next.js 16 · React 19 · TypeScript · Supabase · Kiwify
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 MFO — Gestão Financeira</h3>
+      <p>Ferramenta de projeção patrimonial e alinhamento financeiro pessoal.</p>
+      <b>Stack:</b> Next.js 14 · Prisma ORM
+    </td>
+    <td width="50%">
+      <h3>🎟️ VendaFest</h3>
+      <p>Plataforma para gestão de vendas em eventos em tempo real.</p>
+      <b>Stack:</b> Java Spring Boot · Angular
+    </td>
+  </tr>
+</table>
+<br/>
+📈 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+🎓 Formação
+
+
+🎓 Bacharelado em Engenharia de Software — UniAmérica Descomplica (conclusão prevista: 2027)
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UniAmérica Descomplica (2025)
+📜 React JS 19 & Next.js 15 — Udemy
+📜 Modelagem de Dados — Fundação Bradesco
+📜 Jornada Python — Hashtag Treinamentos
+
+
+<br/>
+📫 Vamos conversar?
+
+<p align="center">
+  <a href="https://wa.me/5545991339633" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gabrielluisnunes@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  💡 <i>"Transformando desafios em código e ideias em realidade."</i>
+</p>
