@@ -1,8 +1,6 @@
 <h1 align="center">Olá, eu sou o Gabriel 👋</h1>
 <h3 align="center">Desenvolvedor Full Stack | Engenheiro de Software</h3>
-<p align="center">
-  Construindo SaaS, apps mobile e produtos digitais escaláveis — do zero ao deploy.
-</p>
+
 <br/>
 🚀 Sobre mim
 
