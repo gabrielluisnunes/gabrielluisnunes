@@ -34,18 +34,6 @@ Projetos
       <b>Stack:</b> Next.js 16 · React 19 · TypeScript · Supabase · Kiwify
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>💰 MFO — Gestão Financeira</h3>
-      <p>Ferramenta de projeção patrimonial e alinhamento financeiro pessoal.</p>
-      <b>Stack:</b> Next.js 14 · Prisma ORM
-    </td>
-    <td width="50%">
-      <h3>🎟️ VendaFest</h3>
-      <p>Plataforma para gestão de vendas em eventos em tempo real.</p>
-      <b>Stack:</b> Java Spring Boot · Angular
-    </td>
-  </tr>
 </table>
 <br/>
 📈 GitHub Stats
