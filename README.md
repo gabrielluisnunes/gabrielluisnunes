@@ -12,6 +12,8 @@ Hoje mantenho dois produtos próprios em produção, que fui construindo e apren
 
 
 🥋 Tatami — comecei esse projeto pra resolver a dor real de uma academia de artes marciais: controlar mensalidade, treino e graduação de forma manual é uma bagunça. Hoje o sistema faz check-in por reconhecimento facial, cobrança automática recorrente, contratos digitais com assinatura e histórico completo de graduação por faixa.
+
+
 📄 Propify — nasceu da vontade de simplificar como freelancers e agências criam e acompanham propostas comerciais. Tem Kanban de negociação, analytics de conversão e integração com Google Calendar.
 
 
