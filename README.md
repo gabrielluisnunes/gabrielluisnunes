@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+<h1 align="center">Olá, eu sou o Gabriel </h1>
 <h3 align="center">Desenvolvedor Full Stack | Engenheiro de Software</h3>
 
 <br/>
-🚀 Sobre mim
+Sobre mim
 
 Tenho 23 anos e sou desenvolvedor full stack. Gosto de entender um problema de verdade antes de sair escrevendo código e de aprender fazendo, no braço, testando ideia atrás de ideia até funcionar.
 
@@ -11,15 +11,15 @@ Trabalho profissionalmente com React, Next.js, Node.js, TypeScript, C# (.NET) e 
 Hoje mantenho dois produtos próprios em produção, que fui construindo e aprendendo no processo:
 
 
-🥋 Tatami — comecei esse projeto pra resolver a dor real de uma academia de artes marciais: controlar mensalidade, treino e graduação de forma manual é uma bagunça. Hoje o sistema faz check-in por reconhecimento facial, cobrança automática recorrente, contratos digitais com assinatura e histórico completo de graduação por faixa.
+Tatami — comecei esse projeto pra resolver a dor real de uma academia de artes marciais: controlar mensalidade, treino e graduação de forma manual é uma bagunça. Hoje o sistema faz check-in por reconhecimento facial, cobrança automática recorrente, contratos digitais com assinatura e histórico completo de graduação por faixa.
 
 
-📄 Propify — nasceu da vontade de simplificar como freelancers e agências criam e acompanham propostas comerciais. Tem Kanban de negociação, analytics de conversão e integração com Google Calendar.
+Propify — nasceu da vontade de simplificar como freelancers e agências criam e acompanham propostas comerciais. Tem Kanban de negociação, analytics de conversão e integração com Google Calendar.
 
 
 Curto entender o "porquê" por trás de cada decisão técnica, não só o "como". E ainda tem muita coisa que eu quero aprender — essa é a parte que mais me motiva.
 
-💼 O que eu construí
+Projetos
 
 <table>
   <tr>
@@ -62,14 +62,18 @@ Curto entender o "porquê" por trás de cada decisão técnica, não só o "como
 
 
 🎓 Bacharelado em Engenharia de Software — UniAmérica Descomplica (conclusão prevista: 2027)
+
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UniAmérica Descomplica (2025)
+
 📜 React JS 19 & Next.js 15 — Udemy
+
 📜 Modelagem de Dados — Fundação Bradesco
+
 📜 Jornada Python — Hashtag Treinamentos
 
 
 <br/>
-📫 Vamos conversar?
+Vamos conversar?
 
 <p align="center">
   <a href="https://wa.me/5545991339633" target="_blank">
