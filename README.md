@@ -89,7 +89,7 @@ A proposal management platform designed for freelancers and agencies.
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
 </p>
 
 ---
