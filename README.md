@@ -1,4 +1,4 @@
-# <h1 align="center">Gabriel Luis Nunes</h1>
+# <h1 align="center">Gabriel Luis Parede Nunes</h1>
 
 <p align="center">
   <strong>Full Stack Software Engineer</strong>
