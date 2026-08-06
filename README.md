@@ -4,10 +4,6 @@
   <strong>Full Stack Software Engineer</strong>
 </p>
 
-<p align="center">
-Building scalable SaaS platforms, APIs and modern web applications.
-</p>
-
 ---
 
 ## About Me
