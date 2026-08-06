@@ -1,81 +1,173 @@
-<h1 align="center">Olá, eu sou o Gabriel </h1>
-<h3 align="center">Desenvolvedor Full Stack | Engenheiro de Software</h3>
-
-<br/>
-Sobre mim
-
-Tenho 23 anos e sou desenvolvedor full stack. Gosto de entender um problema de verdade antes de sair escrevendo código e de aprender fazendo, no braço, testando ideia atrás de ideia até funcionar.
-
-Trabalho profissionalmente com React, Next.js, Node.js, TypeScript, C# (.NET) e Angular, atuando em sistemas B2B/B2C para o setor turístico. Mas o que mais me ensinou até hoje foi construir meus próprios projetos do zero: pensar no banco de dados, na autenticação, na cobrança, no que pode quebrar em produção e resolver cada parte sozinho.
-
-Hoje mantenho dois produtos próprios em produção, que fui construindo e aprendendo no processo:
-
-
-Tatami — comecei esse projeto pra resolver a dor real de uma academia de artes marciais: controlar mensalidade, treino e graduação de forma manual é uma bagunça. Hoje o sistema faz check-in por reconhecimento facial, cobrança automática recorrente, contratos digitais com assinatura e histórico completo de graduação por faixa.
-
-
-Propify — nasceu da vontade de simplificar como freelancers e agências criam e acompanham propostas comerciais. Tem Kanban de negociação, analytics de conversão e integração com Google Calendar.
-
-
-Curto entender o "porquê" por trás de cada decisão técnica, não só o "como". E ainda tem muita coisa que eu quero aprender — essa é a parte que mais me motiva.
-
-Projetos
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🥋 Tatami</h3>
-      <p>Sistema de gestão para academias de artes marciais, do zero até produção. Check-in por reconhecimento facial, cobrança recorrente automatizada, sistema de graus por faixa, contratos digitais com assinatura e coleta de dados (CPF, responsáveis).</p>
-      <b>Stack:</b> Next.js 14 · Supabase · Stripe · Tailwind CSS · face-api.js
-    </td>
-    <td width="50%">
-      <h3>📄 Propify</h3>
-      <p>Plataforma para freelancers e agências criarem e acompanharem propostas comerciais. Kanban de negociação, analytics de conversão, forecasting, integração com Google Calendar e pagamentos via Kiwify.</p>
-      <b>Stack:</b> Next.js 16 · React 19 · TypeScript · Supabase · Kiwify
-    </td>
-  </tr>
-</table>
-<br/>
-📈 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
-🎓 Formação
-
-
-🎓 Bacharelado em Engenharia de Software — UniAmérica Descomplica (conclusão prevista: 2027)
-
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UniAmérica Descomplica (2025)
-
-📜 React JS 19 & Next.js 15 — Udemy
-
-📜 Modelagem de Dados — Fundação Bradesco
-
-📜 Jornada Python — Hashtag Treinamentos
-
-
-<br/>
-Vamos conversar?
+<h1 align="center">Gabriel Luis Nunes</h1>
 
 <p align="center">
-  <a href="https://wa.me/5545991339633" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gabrielluisnunes@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <strong>Full Stack Software Engineer</strong>
 </p>
+
 <p align="center">
-  💡 <i>"Transformando desafios em código e ideias em realidade."</i>
+Building scalable web applications with modern technologies.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Full Stack Software Engineer passionate about designing products that solve real business problems.
+
+Currently I work developing B2B and B2C systems for the tourism industry using modern technologies such as React, Next.js, Node.js, TypeScript, C# (.NET) and Angular.
+
+Beyond my professional experience, I enjoy building complete software products from scratch. From architecture and database modeling to authentication, recurring payments, integrations and production deployment, I like understanding every layer of the application.
+
+Today I maintain two SaaS products in production, where I'm responsible for the entire development lifecycle.
+
+---
+
+# 🚀 Featured Projects
+
+## 🥋 Tatami
+
+Management platform for martial arts academies.
+
+### Main Features
+
+- Facial Recognition Check-in
+- Digital Contracts
+- Automatic Recurring Billing
+- Student & Belt Graduation Management
+- Financial Dashboard
+- Attendance Reports
+- Payment Tracking
+- Teacher Management
+
+### Tech Stack
+
+```
+Next.js 14
+React
+TypeScript
+Supabase
+Stripe
+TailwindCSS
+Face API
+```
+
+---
+
+## 📄 Propify
+
+Proposal management platform for freelancers and agencies.
+
+### Main Features
+
+- Proposal Builder
+- Kanban Pipeline
+- Conversion Analytics
+- Forecast Dashboard
+- Google Calendar Integration
+- Kiwify Integration
+- Client Management
+
+### Tech Stack
+
+```
+Next.js 16
+React 19
+TypeScript
+Supabase
+TailwindCSS
+Kiwify API
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,express,supabase" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+🎓 **Bachelor's Degree in Software Engineering**  
+UniAmérica Descomplica — Expected Graduation: 2027
+
+🎓 **Associate Degree in Systems Analysis and Development**  
+UniAmérica Descomplica — 2025
+
+---
+
+# 📚 Certifications
+
+- React 19 & Next.js
+- Data Modeling
+- Python Journey
+- REST APIs
+- SQL
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:gabrielluisnunes@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-luis-parede-nunes/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5545991339633">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building software that solves real-world problems."*
+
 </p>
