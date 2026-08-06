@@ -1,97 +1,83 @@
-<h1 align="center">Gabriel Luis Nunes</h1>
+# <h1 align="center">Gabriel Luis Nunes</h1>
 
 <p align="center">
   <strong>Full Stack Software Engineer</strong>
 </p>
 
 <p align="center">
-Building scalable web applications with modern technologies.
+Building scalable SaaS platforms, APIs and modern web applications.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Full Stack Software Engineer passionate about designing products that solve real business problems.
+I'm a Full Stack Software Engineer focused on building scalable, maintainable and user-centered software.
 
-Currently I work developing B2B and B2C systems for the tourism industry using modern technologies such as React, Next.js, Node.js, TypeScript, C# (.NET) and Angular.
+Professionally, I develop B2B and B2C applications for the tourism industry using technologies such as React, Next.js, TypeScript, Node.js, C# (.NET) and Angular.
 
-Beyond my professional experience, I enjoy building complete software products from scratch. From architecture and database modeling to authentication, recurring payments, integrations and production deployment, I like understanding every layer of the application.
+Beyond my professional experience, I'm passionate about designing complete software products from the ground up. I enjoy participating in every stage of development—from architecture and database modeling to authentication, payment processing, third-party integrations and production deployment.
 
-Today I maintain two SaaS products in production, where I'm responsible for the entire development lifecycle.
-
----
-
-# 🚀 Featured Projects
-
-## 🥋 Tatami
-
-Management platform for martial arts academies.
-
-### Main Features
-
-- Facial Recognition Check-in
-- Digital Contracts
-- Automatic Recurring Billing
-- Student & Belt Graduation Management
-- Financial Dashboard
-- Attendance Reports
-- Payment Tracking
-- Teacher Management
-
-### Tech Stack
-
-```
-Next.js 14
-React
-TypeScript
-Supabase
-Stripe
-TailwindCSS
-Face API
-```
+Today I maintain two SaaS products in production, where I am responsible for the entire software lifecycle, continuously improving features, performance and user experience.
 
 ---
 
-## 📄 Propify
+## Featured Projects
 
-Proposal management platform for freelancers and agencies.
+### Tatami
 
-### Main Features
+A complete management platform built for martial arts academies.
 
-- Proposal Builder
-- Kanban Pipeline
-- Conversion Analytics
-- Forecast Dashboard
-- Google Calendar Integration
-- Kiwify Integration
-- Client Management
+**Highlights**
 
-### Tech Stack
+* Facial recognition check-in
+* Recurring subscription billing
+* Digital contracts with electronic signatures
+* Student and belt progression management
+* Financial dashboard
+* Attendance tracking
+* Instructor management
+* Student portal
 
-```
-Next.js 16
-React 19
-TypeScript
-Supabase
-TailwindCSS
-Kiwify API
-```
+**Tech Stack**
+
+`Next.js` • `React` • `TypeScript` • `Supabase` • `Stripe` • `Tailwind CSS` • `Face API`
 
 ---
 
-# 🛠️ Tech Stack
+### Propify
+
+A proposal management platform designed for freelancers and agencies.
+
+**Highlights**
+
+* Proposal builder
+* Negotiation pipeline (Kanban)
+* Conversion analytics
+* Sales forecasting
+* Google Calendar integration
+* Kiwify integration
+* Client management
+* Automated proposal workflow
+
+**Tech Stack**
+
+`Next.js` • `React 19` • `TypeScript` • `Supabase` • `Tailwind CSS`
+
+---
+
+## Technologies
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,typescript,javascript,html,css,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,express,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express,supabase" />
 </p>
 
 ### Database
@@ -103,50 +89,67 @@ Kiwify API
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## Engineering Focus
+
+* SaaS Platforms
+* REST APIs
+* Software Architecture
+* Authentication & Authorization
+* Payment Integrations
+* Database Modeling
+* Multi-tenant Applications
+* Performance Optimization
+* Responsive Interfaces
+* AI-powered Features
+* Cloud Deployment
+* Clean Code & Maintainability
+
+---
+
+## GitHub Overview
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gabrielluisnunes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluisnunes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluisnunes&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gabrielluisnunes&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
 ---
 
-# 🎓 Education
+## Education
 
-🎓 **Bachelor's Degree in Software Engineering**  
-UniAmérica Descomplica — Expected Graduation: 2027
+**Bachelor's Degree in Software Engineering**
+UniAmérica Descomplica *(Expected Graduation: 2027)*
 
-🎓 **Associate Degree in Systems Analysis and Development**  
-UniAmérica Descomplica — 2025
-
----
-
-# 📚 Certifications
-
-- React 19 & Next.js
-- Data Modeling
-- Python Journey
-- REST APIs
-- SQL
+**Associate Degree in Systems Analysis and Development**
+UniAmérica Descomplica *(2025)*
 
 ---
 
-# 📫 Contact
+## Certifications
+
+* React 19 & Next.js
+* Data Modeling
+* Python Journey
+* REST APIs
+* SQL
+
+---
+
+## Contact
 
 <p align="center">
 
@@ -167,7 +170,5 @@ UniAmérica Descomplica — 2025
 ---
 
 <p align="center">
-
-> *"Building software that solves real-world problems."*
-
+Building software that solves real-world problems.
 </p>
