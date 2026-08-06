@@ -77,13 +77,13 @@ A proposal management platform designed for freelancers and agencies.
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,express,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,dotnet,cs,java" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### DevOps & Tools
